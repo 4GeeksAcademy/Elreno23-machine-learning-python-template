@@ -2,5 +2,10 @@
     "workbench.startupEditor": "readme",
     "workbench.editorAssociations": {
         "*.md": "vscode.markdown.preview.editor"
+    },
+    "editor.quickSuggestions": {
+        "comments": "off",
+        "strings": "off",
+        "other": "off"
     }
 }
